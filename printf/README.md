@@ -1,4 +1,4 @@
-This is a collaboration printf projrct between George Mwaniki and George Arasa
+This is a collaboration printf project between Felix Omwenga and Lewis Wachira.
 This is a detailed explanation of this project and what is expected of the
 outcome as per alx.
 _printf
